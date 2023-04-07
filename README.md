@@ -8,3 +8,9 @@
 - Масштабировать модель на заданное значение относительно осей X, Y, Z
 
 Интерфейс программы реализован при помощи фреймворка GTK+ (v3.0).
+
+## Интерфейс программы
+
+![human](pics/human.png)
+![skyscraper](pics/skyscraper.png)
+![airplane](pics/airplane.png)
